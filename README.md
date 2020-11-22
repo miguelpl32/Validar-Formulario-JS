@@ -11,4 +11,4 @@ Validar Formulario en JS
 
 [Visita el proyecto](https://miguelpl32.github.io/Validar-Formulario-JS/)
 
-![](src/assets/youtube-app.jpg)
+![](validar-formulario.jpg)
