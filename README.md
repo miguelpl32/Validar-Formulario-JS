@@ -12,3 +12,6 @@ Validar Formulario en JS
 [Visita el proyecto](https://miguelpl32.github.io/Validar-Formulario-JS/)
 
 ![](validar-formulario.jpg)
+
+## Lenguajes
++ JavaScript
